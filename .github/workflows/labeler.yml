@@ -1,0 +1,4 @@
+## Equivalent of the above mentioned configuration using another syntax
+Documentation:
+- changed-files:
+  - any-glob-to-any-file: ['docs/*', 'guides/*']
